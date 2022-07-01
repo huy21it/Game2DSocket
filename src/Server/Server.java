@@ -18,6 +18,7 @@ public class Server {
         ServerSocket serverSocket = new ServerSocket(8080);
         //random number
         Random random = new Random();
+        
         while (true) {
             Socket socket = serverSocket.accept();
             System.out.println("New client connected");
