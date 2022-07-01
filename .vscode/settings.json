@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\HUY\\Documents\\Java\\GameSocketJava\\Server\\lib\\gson-2.2.2.jar"
+    ]
+}
